@@ -1,0 +1,50 @@
+# Terragrunt .terragrunt-cache directory
+.terragrunt-cache/
+
+# Terragrunt logs
+*.log
+
+# Terragrunt tfstate files
+*.tfstate
+
+# Terragrunt tfstate backup files
+*.tfstate.backup
+
+# Terragrunt tfstate temporary files
+*.tfstate.tmp
+
+# Terragrunt tfvars files
+*.tfvars
+
+# Terragrunt plan output files
+*.tfplan
+
+# Terragrunt lock files
+*.lock
+
+# Terragrunt local terraform.tfvars files
+terraform.tfvars
+
+# Terragrunt .hcl.lock files
+*.hcl.lock
+
+# Terragrunt temporary files
+*.tf.tmp
+
+# Terraform .terraform directory
+.terraform/
+
+# Terraform tfstate files
+*.tfstate
+*.tfstate.backup
+*.tfstate.tfbackup
+*.tfstate.backup.*
+
+# Terraform plan output files
+*.tfplan
+
+# Terraform plugin cache
+.plugin-cache/
+
+# Ignore .terraformrc file if present
+.terraformrc
