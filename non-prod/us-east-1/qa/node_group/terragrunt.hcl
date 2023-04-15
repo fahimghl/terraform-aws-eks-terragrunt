@@ -17,26 +17,23 @@ terraform {
 
 # Include the root `terragrunt.hcl` configuration. The root configuration contains settings that are common across all
 # components and environments, such as how to configure remote state.
-dependency "iam" {
-  config_path = "../iam"
-}
-dependency "vpc" {
-  config_path = "../vpc"
-}
-
 include "root" {
   path = find_in_parent_folders()
+}
+
+dependency "cluster" {
+  config_path = "../cluster"
 }
 
 
 # Include the envcommon configuration for the component. The envcommon configuration contains settings that are common
 # for the component across all environments.
 include "envcommon" {
-  path   = "${dirname(find_in_parent_folders())}/_envcommon/cluster.hcl"
+  path   = "${dirname(find_in_parent_folders())}/_envcommon/node_group.hcl"
   
 }
 
+
 inputs =  {
-  vpc_config = [dependency.vpc.outputs.config]
-  iam_config = [dependency.iam.outputs.config]
+  cluster_config = [dependency.cluster.outputs.config]
 }

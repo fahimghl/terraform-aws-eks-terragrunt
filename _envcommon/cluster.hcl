@@ -10,10 +10,10 @@
 # ---------------------------------------------------------------------------------------------------------------------
 locals {
   # Automatically load environment-level variables
-  # environment_vars = read_terragrunt_config(find_in_parent_folders("env.hcl"))
+  environment_vars = read_terragrunt_config(find_in_parent_folders("env.hcl"))
 
   # Extract out common variables for reuse
-  # env = local.environment_vars.locals.environment
+  env = local.environment_vars.locals.environment
 
   # Expose the base source URL so different versions of the module can be deployed in different environments.
   base_source_url = "git::https://github.com/fahimghl/terraform-aws-eks.git//modules/cluster"
@@ -25,7 +25,3 @@ locals {
 # environments.
 # ---------------------------------------------------------------------------------------------------------------------
 
-inputs =  {
-  vpc_config = [dependency.vpc.outputs.config]
-  iam_config = [dependency.iam.outputs.config]
-}
