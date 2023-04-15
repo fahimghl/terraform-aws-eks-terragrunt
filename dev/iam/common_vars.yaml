@@ -1,3 +1,0 @@
-locals:
-  service_role_name: "test"
-  node_role_name: "test22"
