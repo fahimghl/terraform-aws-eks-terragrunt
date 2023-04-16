@@ -4,6 +4,13 @@
 # maintainable: https://github.com/gruntwork-io/terragrunt
 # ---------------------------------------------------------------------------------------------------------------------
 
+# We override the terraform block source attribute here just for the QA environment to show how you would deploy a
+# different version of the module in a specific environment.
+terraform {
+  source = "${include.envcommon.locals.base_source_url}?ref=0.0.1"
+}
+
+
 # ---------------------------------------------------------------------------------------------------------------------
 # Include configurations that are common used across multiple environments.
 # ---------------------------------------------------------------------------------------------------------------------
@@ -17,17 +24,11 @@ include "root" {
 # Include the envcommon configuration for the component. The envcommon configuration contains settings that are common
 # for the component across all environments.
 include "envcommon" {
-  path = "${dirname(find_in_parent_folders())}/_envcommon/mysql.hcl"
+  path   = "${dirname(find_in_parent_folders())}/_envcommon/iam.hcl"
+  expose = true
 }
 
 
 # ---------------------------------------------------------------------------------------------------------------------
-# Override parameters for this environment
+# We don't need to override any of the common parameters for this environment, so we don't specify any inputs.
 # ---------------------------------------------------------------------------------------------------------------------
-
-# For production, we want to specify bigger instance classes and storage, so we specify override parameters here. These
-# inputs get merged with the common inputs from the root and the envcommon terragrunt.hcl
-inputs = {
-  instance_class    = "db.t2.medium"
-  allocated_storage = 100
-}
