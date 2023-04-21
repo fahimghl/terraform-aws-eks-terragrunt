@@ -33,7 +33,6 @@ include "envcommon" {
   
 }
 
-
 inputs =  {
   cluster_config = [dependency.cluster.outputs.config]
 }
