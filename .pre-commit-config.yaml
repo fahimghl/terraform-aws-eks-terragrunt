@@ -1,0 +1,9 @@
+repos:
+  - repo: local
+    hooks:
+      - id: terragrunt-hclfmt
+        name: Terragrunt HCL Format
+        files: \.tfvars$|\.hcl$
+        entry: hooks/terragrunt-hclfmt.sh
+        language: script
+        pass_filenames: true
