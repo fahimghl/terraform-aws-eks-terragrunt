@@ -25,7 +25,3 @@ locals {
 # environments.
 # ---------------------------------------------------------------------------------------------------------------------
 
-inputs = {
-    service_role_name = "EksService"
-    node_role_name = "NodeService"
-}

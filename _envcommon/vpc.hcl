@@ -24,9 +24,3 @@ locals {
 # These are the variables we have to pass in to use the module. This defines the parameters that are common across all
 # environments.
 # ---------------------------------------------------------------------------------------------------------------------
-
-inputs = {
-  name               = "us-east-1"
-  cidr_block         = "10.4.0.0/16"
-  availability_zones = ["us-east-1a", "us-east-1b", "us-east-1c"]
-}
