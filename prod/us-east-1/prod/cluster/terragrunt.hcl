@@ -33,12 +33,12 @@ dependency "vpc" {
 # Include the envcommon configuration for the component. The envcommon configuration contains settings that are common
 # for the component across all environments.
 include "envcommon" {
-  path   = "${dirname(find_in_parent_folders())}/_envcommon/cluster.hcl"
-  
+  path = "${dirname(find_in_parent_folders())}/_envcommon/cluster.hcl"
+
 }
 
-inputs =  {
+inputs = {
   vpc_config = [dependency.vpc.outputs.config]
   iam_config = [dependency.iam.outputs.config]
-  
+
 }

@@ -29,11 +29,11 @@ dependency "cluster" {
 # Include the envcommon configuration for the component. The envcommon configuration contains settings that are common
 # for the component across all environments.
 include "envcommon" {
-  path   = "${dirname(find_in_parent_folders())}/_envcommon/node_group.hcl"
-  
+  path = "${dirname(find_in_parent_folders())}/_envcommon/node_group.hcl"
+
 }
 
 
-inputs =  {
+inputs = {
   cluster_config = [dependency.cluster.outputs.config]
 }
