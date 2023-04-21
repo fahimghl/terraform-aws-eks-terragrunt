@@ -1,5 +1,6 @@
 version: 3
 projects:
+  ### QA
   - name: terragrunt-aws-eks-qa-vpc
     dir: non-prod/us-east-1/qa/vpc
     workflow: terragrunt-workflow
@@ -27,7 +28,7 @@ projects:
     autoplan:
       when_modified: ["*.hcl", "*"]
       enabled: true
-
+  ### staging
   - name: terragrunt-aws-eks-staging-vpc
     dir: non-prod/us-east-1/stage/vpc
     workflow: terragrunt-workflow
@@ -56,6 +57,7 @@ projects:
       when_modified: ["*.hcl", "*"]
       enabled: true
 
+  ### Prod
   - name: terragrunt-aws-eks-prod-vpc
     dir: prod/us-east-1/prod/vpc
     workflow: terragrunt-workflow
