@@ -11,6 +11,7 @@ While Terraform is a powerful tool, it can sometimes be challenging to keep code
 In this project, we'll be using Terragrunt to manage a Kubernetes infrastructure based on the "terraform-aws-eks" GitHub repository provided by Cookpad. Our goal is to create a DRY and maintainable Terraform codebase, making it easier to manage and scale the infrastructure as needed.
 
 ## Key Features
+## Key Features
 
 1. **DRY Terraform Code**: Terragrunt assists in eliminating code repetition by promoting the use of modules and abstracting common configuration elements. This enables a more modular and reusable codebase, leading to easier maintenance and reduced chances of errors.
 2. **Multi-Module Management**: Working with multiple Terraform modules can become cumbersome. Terragrunt provides functionality to manage dependencies between modules, making it easier to work with complex, multi-module projects.
