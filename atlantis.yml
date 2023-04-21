@@ -1,0 +1,95 @@
+version: 3
+projects:
+  - name: terragrunt-aws-eks-qa-vpc
+    dir: non-prod/us-east-1/qa/vpc
+    workflow: terragrunt-workflow
+    autoplan:
+      when_modified: ["*.hcl", "*"]
+      enabled: true
+
+  - name: terragrunt-aws-eks-qa-iam
+    dir: non-prod/us-east-1/qa/iam
+    workflow: terragrunt-workflow
+    autoplan:
+      when_modified: ["*.hcl", "*"]
+      enabled: true
+
+  - name: terragrunt-aws-eks-qa-cluster
+    dir: non-prod/us-east-1/qa/cluster
+    workflow: terragrunt-workflow
+    autoplan:
+      when_modified: ["*.hcl", "*"]
+      enabled: true
+
+  - name: terragrunt-aws-eks-qa-node-group
+    dir: non-prod/us-east-1/qa/node_group
+    workflow: terragrunt-workflow
+    autoplan:
+      when_modified: ["*.hcl", "*"]
+      enabled: true
+
+  - name: terragrunt-aws-eks-staging-vpc
+    dir: non-prod/us-east-1/stage/vpc
+    workflow: terragrunt-workflow
+    autoplan:
+      when_modified: ["*.hcl", "*"]
+      enabled: true
+
+  - name: terragrunt-aws-eks-staging-iam
+    dir: non-prod/us-east-1/stage/iam
+    workflow: terragrunt-workflow
+    autoplan:
+      when_modified: ["*.hcl", "*"]
+      enabled: true
+
+  - name: terragrunt-aws-eks-staging-cluster
+    dir: non-prod/us-east-1/stage/cluster
+    workflow: terragrunt-workflow
+    autoplan:
+      when_modified: ["*.hcl", "*"]
+      enabled: true
+
+  - name: terragrunt-aws-eks-staging-node-group
+    dir: non-prod/us-east-1/stage/node_group
+    workflow: terragrunt-workflow
+    autoplan:
+      when_modified: ["*.hcl", "*"]
+      enabled: true
+
+  - name: terragrunt-aws-eks-prod-vpc
+    dir: prod/us-east-1/prod/vpc
+    workflow: terragrunt-workflow
+    autoplan:
+      when_modified: ["*.hcl", "*"]
+      enabled: true
+
+  - name: terragrunt-aws-eks-prod-iam
+    dir: prod/us-east-1/prod/iam
+    workflow: terragrunt-workflow
+    autoplan:
+      when_modified: ["*.hcl", "*"]
+      enabled: true
+
+  - name: terragrunt-aws-eks-prod-cluster
+    dir: prod/us-east-1/prod/cluster
+    workflow: terragrunt-workflow
+    autoplan:
+      when_modified: ["*.hcl", "*"]
+      enabled: true
+
+  - name: terragrunt-aws-eks-prod-node-group
+    dir: prod/us-east-1/prod/node_group
+    workflow: terragrunt-workflow
+    autoplan:
+      when_modified: ["*.hcl", "*"]
+      enabled: true
+
+workflows:
+  terragrunt-workflow:
+    plan:
+      steps:
+        - run: terragrunt init -no-color
+        - run: terragrunt plan -no-color -out $PLANFILE
+    apply:
+      steps:
+        - run: terragrunt apply -no-color $PLANFILE
