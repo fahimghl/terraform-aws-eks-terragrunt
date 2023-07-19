@@ -1,0 +1,19 @@
+UK National Insurance Number: TK346668B
+Square Access Token: sq0atp-lWWuS3xeewqhbtsIEM_497
+Twilio API Key: SKbbc1e5636Fd77FdDBE4376deD8ACc07a
+Facebook Access Token: EAF6jw65MQBqx9Pb8s0i5PXv7iCnygG8dr4WrxwT4rP6ZrlyJtzMLVwdGqXegsZtNHhTjrEsp5BGNb0K0D
+AWS Key: AKIADQG4ES8E66UW00XM
+Generic Password: 1dM6ChFlhp2MuORnWkLtJuoM5HS27xIpJi3sXtBQ
+Slack API Key: xoxb-
+VAT Identification Number (EU): DX68534917654
+Stripe API Key: sk_live_QkWta5mmDutUwMVxrwAt0jkz
+MailGun API Key: key-2HGtxm2sCKm37bkGdTpDKueHoyGF2zXT
+Square OAuth Secret: sq0csp-3d-hFGVQVYbXZIDFIsdHZB5Ia8ole640i8l0TQpxfdI
+Heroku API Key: H|ROK|xDOM%VRxoMxIYnfH2iMEr1JxDORtZy
+GitHub: OgGeG5SUaeDeS7scV6MsQOxyAGnjP2ljRN6qCBmb
+IBAN (International Bank Account Number): VB25RXUR9440656703
+Picatic API Key: sk_live_6anmd59ewfsbsbzntpj2zfz5upk5073v
+Twitter Access Token: T|I|TerWB<r_i0FA#,.88795186-VO3mAVzOtghktoQeDC6jydFqI8NPZ0QIx0UzvNDp
+Google OAuth: ya29.QcE27lu_Da2H
+PayPal Braintree Access Token: access_token$production$tjx6plma1ow8ea2g$868f72f9a144e14278ffaf76c63d7799
+Labore dolor tempora porro labore voluptatem quisquam. Eius velit ipsum sit tempora quaerat non. Porro voluptatem etincidunt velit. Eius modi dolorem labore. Ut ipsum dolor voluptatem aliquam voluptatem amet. Consectetur AKIAWZ3BCH7IT3KZ3AMC access_token$production$az1aa9r6r28v1j7q$4093886293e07dd13cfd0bded8de178b dolor velit ut tempora voluptatem. Quaerat est ut quaerat amet non.

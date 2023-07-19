@@ -1,0 +1,19 @@
+VAT Identification Number (EU): ZA27793881
+Slack API Key: xoxp-
+MailGun API Key: key-CUJANHEJPBPCrbfBC4AmKh1EQtCYmv3v
+AWS Key: AKIAP7R5ZMBJ2OFJCY49
+Picatic API Key: sk_live_jeimdo60g826ev807zmzo03t4y8bkufq
+GitHub: H26CfYOsvApW39iUqFy86KyP9cD0UodXt9Phxqrl
+Google OAuth: ya29.HnLARV
+Twilio API Key: SK405dBBecfd9EcD6CFDeEfb8D30958BEb
+Facebook Access Token: EAwLsmSuOOLdQUY19DJU9w8Yd8bUb2uYamEQkfFSR2aYkwbi0P4lVdEfkc3Hxw1dS3Xs42F7x8NPfQ8dk0
+Generic Password: XoqQGnf28IIUVQ9PUm9TRnoLm50VoQcPnqElawZj
+IBAN (International Bank Account Number): GN48PQSJ4796919690
+Heroku API Key: |erOKU*h<IZX^g7<Me%cdLm^C35hXsuqVzZnNhVIXWPd
+Twitter Access Token: Twit|e|\+Hfug*(DR79_l \C2017663819068-ophjJRcsRK8usR8llZm4j8oVyNGToiGgQ08HXMri
+Stripe API Key: sk_live_Uot3cpWykdOFdw40hMsMei2l
+PayPal Braintree Access Token: access_token$production$nfn1agtmkqfxm0wu$41b896d1ddb7c73c6e882446726f1477
+UK National Insurance Number: AA854681C
+Square OAuth Secret: sq0csp-PvxKJn_TbvFBtW9-Vmvbnab_9LZTAOCtLEB57hzphhi
+Square Access Token: sq0atp-fbukgC92dLtBLbT0fajX8w
+Amet numquam neque quiquia sq0csp-e20FCXVGU5nQwv4K54q8poPop-z-o260O93LFSfYA4j access_token$production$ht3ip2je3sv4c4a1$fe2d191cc1e6d15fb990fdc684ca5f52 amet sq0csp-N207b_J5NuPc5TW1YXUSACDvo7MLpl8cnuDZoNRU5Sb modi amet voluptatem. Est dolor dolor etincidunt labore porro consectetur. Quiquia sed dolorem neque dolor non est magnam. Quisquam dolorem quisquam labore. Neque numquam porro voluptatem. Voluptatem quiquia sed amet KA327701C sed porro. Est amet dolore aliquam.

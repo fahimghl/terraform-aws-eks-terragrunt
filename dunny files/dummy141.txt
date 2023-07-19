@@ -1,0 +1,19 @@
+UK National Insurance Number: XW454126 
+IBAN (International Bank Account Number): FF07QJMA3243337239
+Square Access Token: sq0atp-ni-zxpmhV2bbjaHsZCvS-V
+MailGun API Key: key-v7DyS3Db2YDjU24sQfK28iWyGzXMDpHn
+AWS Key: AKIAPR2QT9WHIGK204ZQ
+Heroku API Key: h|R|Ku\)l@_':)]RAfhVUfAYTUWNCRQiNPU1Vc
+Twitter Access Token: TWitTer@!&drrx8950-XKC0iajiG6zSkybMaD8WCrh5BrfqVn2kklimOJ6H
+Slack API Key: xoxa-
+Generic Password: YPC8i2GlpQZeDA0fFNrNqkWlHR5uYL33y8HqYAWi
+Twilio API Key: SKBCe2FbEB2814bdd9BFd1C128bd9B4aab
+Google OAuth: ya29.Vu6r-mgQQsaUL1SfyZN
+Picatic API Key: sk_live_1g1eykfpzzmq42gdzn56ve70qp0zfisk
+PayPal Braintree Access Token: access_token$production$wmnfilpglimpwtfa$cadeca025eb393866bb23bca8985415c
+Facebook Access Token: EAvcDlJpAh7ysEDE120i8ZGhWK8jK2VTtLpvBOrn4Ep4tanze9zsSNJ3czpEHMOF9q3eGasH5CjHwdTWyE
+GitHub: hVTKgoTsxmIHcFx6gObdbqog13EkWDMUO6EeGXk3
+Square OAuth Secret: sq0csp-brCXGA-uFT75ILdZoxOYCiujWlm62_GLxwSEBV68pwF
+VAT Identification Number (EU): GN713202984
+Stripe API Key: sk_live_bVqMEuoJ0nezoVsZ8S7BpLE3
+Numquam dolorem quisquam sed magnam numquam. Sit aliquam aliquam dolorem quiquia dolore porro. Magnam dolore non sed neque magnam labore. Dolorem ipsum quisquam ut voluptatem est. Sit ipsum dolor magnam. Sed dolore porro eius non labore aliquam non. Porro h|R|KU@`av\02STjBtCRy4UaeniIrmr eius |||T|E|Nq3r56372-E8itZtFOzlhQCYlMTtKPaVnONxVdTJZVz6tn9TDD neque quaerat quiquia labore. Labore eius quisquam porro amet dolorem. Consectetur numquam labore amet. Tempora sit dolor eius adipisci quaerat.

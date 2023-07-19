@@ -1,0 +1,19 @@
+Heroku API Key: |ERoKU,95nXc9K45uXPPLMuKEC9X2Vw
+Slack API Key: xoxr-
+VAT Identification Number (EU): MM89160217
+Generic Password: Hi08vjPVpj3dcPqLhfuPGyX2oB5oZSFNL6AIxm8F
+Stripe API Key: sk_live_N08mmi9fDLBJz9WwFBxSh0j9
+GitHub: sfyTe8z1v4ONR9hct1WcdsvSt31gM1OWTEEkMH37
+Picatic API Key: sk_live_yqomj8o1jlgavz7wc474fztngqd31mk9
+Google OAuth: ya29.r4HyudvCmicI
+MailGun API Key: key-U4i5uzL8yatw0B9h9MnIxMSFZ7TNl3y8
+Square Access Token: sq0atp-NgAqDtR_HjKl-uAG2oK7Yz
+IBAN (International Bank Account Number): WH66KPWM9626197868
+PayPal Braintree Access Token: access_token$production$i9gvtg2nkxle0a3z$2f35fc8ae7c2e92dd686733c61aab484
+AWS Key: AKIADHGBBRH0JQAXB6TN
+Twitter Access Token: ||ITteRV,aDxYZ9@74760182590464-v25nMZ5JeuWDRx97PLb3WBLQmltiLKFZK4iwsyWN
+Twilio API Key: SK39Ca1Ab7bB53F3AFFAd87b5F9E03ac92
+Square OAuth Secret: sq0csp-vPjqUtm3HhxZQhWcM5tgSC98l7blzzH8nNqRffCxrvf
+Facebook Access Token: EANARnCB8cIJCNQjMbeYja9OJ8jwwMFyHoThM7UXCpiRlG4krMvNETq7PKnt9WXf926qpyLfDDDWcO8hI5
+UK National Insurance Number: AT800505A
+Tempora est consectetur amet dolore adipisci quiquia etincidunt. Numquam labore sed dolor aliquam neque. Eius amet dolore sit dolor numquam eius. Dolor neque dolore amet velit. Velit labore consectetur quisquam magnam dolorem dolore etincidunt. Dolorem quaerat velit dolore dolorem labore. Magnam magnam quiquia ut quaerat dolor modi dolore. Sit est eius tempora magnam numquam sk_live_gVGjcB9Ihj6PZixEqaos717d 9uqNQ5aaD5Q7QYL1ksdvXDunIQW0H06xquy99kbt quiquia.

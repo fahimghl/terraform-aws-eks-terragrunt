@@ -1,0 +1,19 @@
+UK National Insurance Number: RL996556A
+VAT Identification Number (EU): SJ0634871064
+PayPal Braintree Access Token: access_token$production$vh3g4o5daeivcik1$2026be00cb91397d57f3209bebde42ef
+Square Access Token: sq0atp-2uYuHpRYMtgh-ic4UzNdvQ
+Stripe API Key: sk_live_CcLOONueVrLY0YjKQUBKx1Eg
+MailGun API Key: key-dsnoWRTk1yyby1XRpnNSFPgwHNZJNX23
+GitHub: WfITmEDjZslQMRmAWpcPUEj2H7QK1AaO6wKjxEr4
+Square OAuth Secret: sq0csp-c1sAML5SB4qiOyX23i-m1EBH2R2jbcDJEZd7NvfOjKH
+IBAN (International Bank Account Number): LQ89HWXQ0816776935
+Twilio API Key: SK0d97E1BF4E62B9C286FFbcBe03912Db1
+Generic Password: czH7JQJ3wnJA9s4DBjSeqHMWDwMFc7fihH6tyPh8
+AWS Key: AKIAHH2BNETWLNYY6A73
+Twitter Access Token: TWI|tE|%Ju9911156011083057493-8ZCzWGUM4qvINskYv4itONcIGmwAHE8f8wgaY65P
+Slack API Key: xoxr-MvnqZB42hL
+Heroku API Key: heroKu>psfj!,=oa&-m*60J:Y9qckQI7hbViw6kdTwew
+Picatic API Key: sk_live_hu5qtuqli827aasxlgf25wp7i4pexeux
+Facebook Access Token: EAFZLeM0G4LhEmPAoejxNN3xRzQtInh6m2J2hwjX8aLZuriZrTwiaTZo6we8wQztOyHrYWb9SL3cZpBk3k
+Google OAuth: ya29.DxcIqRmtRkT
+Magnam dolore quiquia xoxs-uFP5ms7L0XK82Uq SKa731BFD2c24B93dAa2Bef0cdF64ADd39 quisquam h|ROkueC.ZhX.z=<MRmRVDPBM1RkXRFy4YVRUKBT81U6N numquam eius. Velit quisquam eius ipsum aliquam quiquia dolor. Quisquam aliquam ipsum adipisci neque velit. |wi|tE|*mu+zM@I$549597274984843951-6Gdh0HhPEptT7WTJe9rn1feLt1vJfpeJGgTfRP4V Sed consectetur voluptatem dolore quisquam voluptatem. Etincidunt modi aliquam non dolorem amet. Ipsum amet quisquam porro.
