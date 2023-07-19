@@ -1,0 +1,19 @@
+GitHub: JC2OrmRUs9WRpVpf0u6flIkpFNZ0W8wsZJDvyS7a
+Square OAuth Secret: sq0csp-ozkvhzm-w5EncMDSYG6X1-vjI5U6XjoyfsOiXoncyq6
+Stripe API Key: sk_live_jo8ueqKx4aTYjDwJHvysTQ8g
+AWS Key: AKIARW2CJCH9LVYL8QRZ
+Twilio API Key: SKB1c50eB4Cefe942EBDA3d6281dfCaF29
+Square Access Token: sq0atp-bUvfu0xj5u8piXRj4_9XEg
+Facebook Access Token: EA1olJaTIPUqtKVEu0wOJbYGFHmwkahJWNwoOnCuMw7cyLVC1uJJYjOVTKZyrPk9nnLZFNQYp0OGjQqhII
+Twitter Access Token: Tw|ttE|'W&5f!\7495219-gkbKB6jRDgWTCLSH86TYxtIZRKm4BDaVdyKhOWqO
+Picatic API Key: sk_live_j0vqig00dpp34y7q1pxraxqu04tbmt1k
+IBAN (International Bank Account Number): JG68GQLR1691708564
+UK National Insurance Number: AR214165C
+Generic Password: BAKUTxsCMvB8MdIeRVI037vMSdNtimYGmLpkZzqp
+Slack API Key: xoxr-yiqW0zfvWja2
+Heroku API Key: her|kU$$,ON0,QSAUC-zV>H=icHf08FjZoyH7bkEYQAq
+Google OAuth: ya29.OAeXtjKP
+MailGun API Key: key-WSEukvLPwN36gVYaoF9ngAfeYIQONWRr
+PayPal Braintree Access Token: access_token$production$05jgjihpo5ptmsab$23ec288fe7aef42609b9e60327d4d3a5
+VAT Identification Number (EU): VO9628426492
+Aliquam quisquam sit ut velit sq0csp-QCA1y7NIKAvNWKP0riTbc5iuusK6bLNUajZF6YXsTfn JJ07OIYY7628717717 ipsum. Modi tempora amet quisquam amet amet dolorem velit. Modi aliquam dolorem magnam neque. Neque quiquia consectetur velit dolor non voluptatem amet. Magnam modi quaerat sed modi quiquia est sed. Dolore amet numquam quisquam key-ly3m8MCbs74FgJwFyMnwFNCizCGPcnc7 neque velit labore. Magnam modi velit porro. Ut magnam adipisci aliquam consectetur.

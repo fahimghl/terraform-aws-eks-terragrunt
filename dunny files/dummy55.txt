@@ -1,0 +1,19 @@
+Square OAuth Secret: sq0csp-lRjq8V4bBlrtYbSpdMevkQGxg4B9UVB9dR_rZclSt54
+Slack API Key: xoxa-
+Twitter Access Token: |||t|E|5612812-4ZtAOIoSl8Rcr02VLKLlyrMvc8WiUP9A3Iifanr1
+UK National Insurance Number: ZC926460B
+Heroku API Key: Her|||ig  PGRfN[% xW'byXBXf9pZC5G7kqbBFDd
+PayPal Braintree Access Token: access_token$production$iojelutmtyqqa8lb$c3d10bf892bc13380ce466d37473bb0f
+Square Access Token: sq0atp-G7E_7OvdG9cdQeKDSmxiR0
+MailGun API Key: key-RZzU2WnLOWHoYUgXEbz5gPNX95TMhHuL
+Facebook Access Token: EADYSgdwWhiTteEwuD0uQomkJW01CDs0x1iM7x1ZCFL7s3CbgBKkA5o4vMxjFHzabBvvt6pDF1EJetgrp3
+IBAN (International Bank Account Number): QR50ONLX8068022488
+GitHub: IAMKlHiI1vz9QEmMaMVpn3KVUwsfyRaTC8UAiWt8
+Google OAuth: ya29.7UE5x0EfnfmDG8
+VAT Identification Number (EU): IS06117002334
+AWS Key: AKIAHI1WHP0VRDF5SGHW
+Stripe API Key: sk_live_xnL9a97LNmLOmuIn9eRAxcf0
+Generic Password: o8dWzGEo4pP7A42LuUi9axDjO7xNW1wnwMkJsL5l
+Picatic API Key: sk_live_n5h0uwiwgfbq65gk8i2d86d3usg4c7dn
+Twilio API Key: SKDdC31FFBa1dB8ceAa7dBAb2F7141F75F
+Consectetur AKIA0383CA3O1DCC34W3 labore ipsum consectetur labore velit key-y9fyFbJbDTCAycd5m8XkE4nC9jtvdXrK dolor. Ipsum sed eius quiquia magnam. Consectetur quaerat eius aliquam voluptatem etincidunt. Etincidunt quisquam est tempora quisquam voluptatem. EAgzAMxlSEcHyzxLiIBTxWzAFlPMoLIFj6ZRoqIVyqBJn037p1S0LfiiWBB6H3SNnf0YUTaFbKc2HL0LDe Dolor ipsum sed modi. Neque ut numquam neque. Quaerat labore eius non Q5wSh8kOkQXo4MOO0kVn54FPOAxabht0AqXvE5Co consectetur amet quiquia.

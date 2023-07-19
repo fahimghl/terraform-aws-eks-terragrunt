@@ -1,0 +1,19 @@
+VAT Identification Number (EU): LY299019585
+Facebook Access Token: EAtDUQ1Qmf57son8maDeX8HfILD6zJQG6YM8W0M4mCmhy86dJQjF06ZsEVDzGcO2YZRWQbI5jrOoYfU6hY
+Twitter Access Token: |w||te|63606213735639230396-mxAwa6d5eeDSb20KEXQKAZ3EWarv7dTCjyyPsWVj
+GitHub: H8QopNQnXZKU4DTwEDDPKHM9cuhJhwYrJO4f33MN
+Slack API Key: xoxa-ZpLWW1VdKf
+Square Access Token: sq0atp-NYHzXAggP7ANNKxtVxh2Mt
+MailGun API Key: key-QLf8bAzgSuqbWK7flOr5EdSjN5Fx9DTg
+Generic Password: 4QAiH1hWLeyZB9AKyLgl0nqCjRppUuDTfDsGz82v
+Stripe API Key: sk_live_A3jbSp31YjJLxQisplDzhnPJ
+Twilio API Key: SKD0Faf5bA42af111CeF9f7C43109CEA7c
+UK National Insurance Number: PS884440D
+IBAN (International Bank Account Number): GM03KAOP4651617601
+AWS Key: AKIAG7B1PP9QA9L9MRNO
+Picatic API Key: sk_live_qyszmqg5hd58mlq4fg4afngx6uzkhq43
+Square OAuth Secret: sq0csp-ueCvYHTJ5oetMTGpXpWy1AYHDLORBnPzDxRGm3Bf5ZP
+PayPal Braintree Access Token: access_token$production$d8qinh7ptarvkw04$dff01e2507251689ecf921635b3fd8d6
+Heroku API Key: H|ROK|QR$fx(XH=2Cw5oFiC3eSTRFw16SeAixtq
+Google OAuth: ya29.A0Iha0k32Abyv4g
+Adipisci sed est velit sk_live_2ok3md0tfysc6qmn5c7tngm4qw7kr9ue ZQ2ftxKx34drhzLHXGE0Jq1OgL3czDJiyPPrNhDL etincidunt. Sed consectetur porro quiquia. Aliquam non voluptatem modi EA79VHjP8k8dhw9CSblVWOk9oOMvfchecs0nMYk3YnmVyyOKjN7MzNSUOGQxQhrhfxM7izPIQhPVPHsrvy adipisci. Velit modi quaerat non. Numquam porro sed velit consectetur. Quiquia est sit etincidunt voluptatem dolorem. Magnam sq0csp-R0vJh-y6YI4IaMRfmA6EvkVHNVd-FSaq_Y7OPY9KhNc tempora ipsum sit quisquam etincidunt. Ut consectetur velit eius. Adipisci ut dolor dolor consectetur etincidunt. Dolore modi consectetur etincidunt eius sed.
