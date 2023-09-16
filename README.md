@@ -57,3 +57,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 - [Cookpad](https://github.com/cookpad/terraform-aws-eks)
+
+- https://drive.google.com/file/d/1MzSGnSEVBqskVZDk4B799gdmOJp5Gpa0/view?usp=sharing
