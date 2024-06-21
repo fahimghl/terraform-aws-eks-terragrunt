@@ -1,0 +1,85 @@
+locals {
+  aws_iam_policy_docs = {
+    "cloudwatch" = data.aws_iam_policy_document.cloudwatch.json
+    "s3" = data.aws_iam_policy_document.s3.json
+    "sns" = data.aws_iam_policy_document.sns.json
+    "api_gateway" = data.aws_iam_policy_document.api_gateway.json
+    "secrets_manager" = data.aws_iam_policy_document.secrets_manager.json
+    "dynamodb" = data.aws_iam_policy_document.dynamodb.json
+  }
+}
+
+data "aws_iam_policy_document" "cloudwatch" {
+  statement {
+    actions = [
+      "cloudwatch:PutMetricData",
+      "cloudwatch:GetMetricStatistics",
+      "cloudwatch:ListMetrics"
+    ]
+    resources = ["*"]
+  }
+}
+
+data "aws_iam_policy_document" "s3" {
+  statement {
+    actions = [
+      "s3:GetObject",
+      "s3:PutObject",
+      "s3:DeleteObject"
+    ]
+    resources = [
+      "arn:aws:s3:::example-bucket/*"
+    ]
+  }
+}
+
+data "aws_iam_policy_document" "sns" {
+  statement {
+    actions = [
+      "sns:Publish"
+    ]
+    resources = [
+      "arn:aws:sns:us-east-1:123456789012:example-topic"
+    ]
+  }
+}
+
+data "aws_iam_policy_document" "api_gateway" {
+  statement {
+    actions = [
+      "execute-api:Invoke",
+      "execute-api:ManageConnections"
+    ]
+    resources = [
+      "arn:aws:execute-api:us-east-1:123456789012:api-id/*"
+    ]
+  }
+}
+
+data "aws_iam_policy_document" "secrets_manager" {
+  statement {
+    actions = [
+      "secretsmanager:GetSecretValue",
+      "secretsmanager:DescribeSecret"
+    ]
+    resources = [
+      "arn:aws:secretsmanager:us-east-1:123456789012:secret:mysecret"
+    ]
+  }
+}
+
+data "aws_iam_policy_document" "dynamodb" {
+  statement {
+    actions = [
+      "dynamodb:GetItem",
+      "dynamodb:PutItem",
+      "dynamodb:UpdateItem",
+      "dynamodb:DeleteItem",
+      "dynamodb:Query",
+      "dynamodb:Scan"
+    ]
+    resources = [
+      "arn:aws:dynamodb:us-east-1:123456789012:table/myTable"
+    ]
+  }
+}
